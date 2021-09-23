@@ -5,7 +5,7 @@ Usage examples for the [localedb-py package](https://github.com/momacs/localedb_
 
 ## Notebooks
 
-The following [computational notebooks](https://github.com/momacs/localedb-py/tree/master/notebooks) demonstrate the usage and capabilities of the package:
+The following computational notebooks demonstrate the usage and capabilities of the package:
 - [Data Access](https://github.com/momacs/localedb-py/blob/master/notebooks/01-data-access.ipynb)
 - [Multivariate Time Series Clustering](https://github.com/momacs/localedb-py/blob/master/notebooks/02-mvts-cluster.ipynb)
 - [Multivariate Time Series Clustering (Continuous Wavelet Transform)](https://github.com/momacs/localedb-py/blob/master/notebooks/03-mvts-cluster-cwt.ipynb)
@@ -16,7 +16,7 @@ The following [computational notebooks](https://github.com/momacs/localedb-py/tr
 
 ## Multivariate Time Series Clustering of Covid-19 Disease Dynamics
 
-Below is a brief narrative that offers a quick look at a few results we discuss in the [notebooks](https://github.com/momacs/localedb-py/tree/master/notebooks).
+Below is a brief narrative that offers a quick look at a few results we discuss in some of the notebooks listed above.
 
 #### 1. We cluster the 67 counties of the state of Pennsylvania by Covid-19 disease dynamics (specifically, the number of confirmed cases and the number of deaths, smoothed and standardized)
 
