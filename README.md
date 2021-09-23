@@ -14,9 +14,9 @@ The following [computational notebooks](https://github.com/momacs/localedb-py/tr
 - [Multivariate Time Series Clustering (Performance Evaluation)](https://github.com/momacs/localedb-py/blob/master/notebooks/06-mvts-cluster-perf-eval.ipynb)
 
 
-## Example: Multivariate Time Series Clustering of Covid-19 Disease Dynamics
+## Multivariate Time Series Clustering of Covid-19 Disease Dynamics
 
-Below is a brief narrative based on a few results we discuss in the [notebooks](https://github.com/momacs/localedb-py/tree/master/notebooks).
+Below is a brief narrative that offers a quick look at a few results we discuss in the [notebooks](https://github.com/momacs/localedb-py/tree/master/notebooks).
 
 #### 1. We cluster the 67 counties of the state of Pennsylvania by Covid-19 disease dynamics (specifically, the number of confirmed cases and the number of deaths, smoothed and standardized)
 
