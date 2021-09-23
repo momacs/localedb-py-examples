@@ -6,12 +6,12 @@ Usage examples for the [localedb-py package](https://github.com/momacs/localedb-
 ## Notebooks
 
 The following computational notebooks demonstrate the usage and capabilities of the package:
-- [Data Access](https://github.com/momacs/localedb-py/blob/master/notebooks/01-data-access.ipynb)
-- [Multivariate Time Series Clustering](https://github.com/momacs/localedb-py/blob/master/notebooks/02-mvts-cluster.ipynb)
-- [Multivariate Time Series Clustering (Continuous Wavelet Transform)](https://github.com/momacs/localedb-py/blob/master/notebooks/03-mvts-cluster-cwt.ipynb)
-- [Multivariate Time Series Clustering (Mapping)](https://github.com/momacs/localedb-py/blob/master/notebooks/04-mvts-cluster-map.ipynb)
-- [Multivariate Time Series Clustering (Distance Matrices)](https://github.com/momacs/localedb-py/blob/master/notebooks/05-mvts-cluster-dist-mat.ipynb)
-- [Multivariate Time Series Clustering (Performance Evaluation)](https://github.com/momacs/localedb-py/blob/master/notebooks/06-mvts-cluster-perf-eval.ipynb)
+- [Data Access](blob/master/01-data-access.ipynb)
+- [Multivariate Time Series Clustering](blob/master/02-mvts-cluster.ipynb)
+- [Multivariate Time Series Clustering (Continuous Wavelet Transform)](blob/master/03-mvts-cluster-cwt.ipynb)
+- [Multivariate Time Series Clustering (Mapping)](blob/master/04-mvts-cluster-map.ipynb)
+- [Multivariate Time Series Clustering (Distance Matrices)](blob/master/05-mvts-cluster-dist-mat.ipynb)
+- [Multivariate Time Series Clustering (Performance Evaluation)](blob/master/06-mvts-cluster-perf-eval.ipynb)
 
 
 ## Multivariate Time Series Clustering of Covid-19 Disease Dynamics
