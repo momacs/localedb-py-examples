@@ -1,6 +1,6 @@
 # localedb-py Examples
 
-Usage examples for the [localedb-py package](https://github.com/momacs/localedb_py).
+Usage examples for the [localedb-py package](https://github.com/momacs/localedb-py).
 
 
 ## Notebooks
